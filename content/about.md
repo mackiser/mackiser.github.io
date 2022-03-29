@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "About Me"
 date: 2022-03-28T16:03:31-06:00
-layout: simple
 draft: false
+showDate: false
+showReadingTime: false
 ---

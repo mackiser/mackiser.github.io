@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Mac Kiser"
   image = "/img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
+  headline = "I'm only human"
+  bio = "A little bit about you"
   links = [
   { email = "mailto:mackiser@pm.me" },
   #   { link = "https://link-to-some-website.com/" },

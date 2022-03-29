@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mackiser.github.io</title>
+    <link>https://mackiser.github.io/</link>
+    <description>Recent content on mackiser.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Mar 2022 16:03:31 -0600</lastBuildDate><atom:link href="https://mackiser.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://mackiser.github.io/about/</link>
+      <pubDate>Mon, 28 Mar 2022 16:03:31 -0600</pubDate>
+      
+      <guid>https://mackiser.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denver, CO - March 2022</title>
+      <link>https://mackiser.github.io/posts/denver-2022/</link>
+      <pubDate>Mon, 28 Mar 2022 16:03:31 -0600</pubDate>
+      
+      <guid>https://mackiser.github.io/posts/denver-2022/</guid>
+      <description>   Camera Lens Film     Minolta SRT-101 Rokkor 58mm Portra 160     📸 by Emily 📍 Bierstadt   📸 by Dom 📍 Number 38   📸 by Emily 📍 Number 38   📸 by Mac 📍 Number 38   📸 by Mac 📍 Airbnb Rooftop   📸 by Mac 📍 Cozy Cottage   📸 by Emily 📍 Cozy Cottage  </description>
+    </item>
+    
+    <item>
+      <title>Wordle Tracker</title>
+      <link>https://mackiser.github.io/wordle/</link>
+      <pubDate>Fri, 18 Feb 2022 08:00:00 -0700</pubDate>
+      
+      <guid>https://mackiser.github.io/wordle/</guid>
+      <description>Mac&amp;rsquo;s Daily Wordle Updates</description>
+    </item>
+    
+    <item>
+      <title>Grasp of Avarice (Solo Flawless)</title>
+      <link>https://mackiser.github.io/posts/goa-flawless/</link>
+      <pubDate>Mon, 13 Dec 2021 18:56:46 -0600</pubDate>
+      
+      <guid>https://mackiser.github.io/posts/goa-flawless/</guid>
+      <description>All encounters done on Warlock  Loot Cave Entrance # Subclass: Bottom Tree Nova Bomb</description>
+    </item>
+    
+  </channel>
+</rss>
