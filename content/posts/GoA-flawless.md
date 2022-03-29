@@ -1,5 +1,6 @@
 ---
 title: "Grasp of Avarice (Solo Flawless)"
+description: "A short written guide on how to complete the Solo Flawless challenge in the Grasp of Avarice Dungeon"
 date: 2021-12-13T18:56:46-06:00
 tags: ["destiny"]
 draft: false

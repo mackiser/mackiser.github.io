@@ -8,15 +8,15 @@ rtl = false
 title = "mackiser.github.io"
 # logo = "img/logo.jpg"
 # description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Mac Kiser"
   image = "/img/author.jpg"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+# headline = "I'm only human"
+  bio = "A guy with a blog, yikes."
   links = [
   { email = "mailto:mackiser@pm.me" },
   #   { link = "https://link-to-some-website.com/" },

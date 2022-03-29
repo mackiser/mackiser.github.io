@@ -4,7 +4,7 @@ date: 2022-03-28T16:03:31-06:00
 tags: ["film"]
 layout: simple
 draft: false
-showTags: true
+showPagination: true
 ---
 
 | Camera          | Lens        | Film       |
