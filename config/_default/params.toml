@@ -13,7 +13,7 @@ showAppearanceSwitcher = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 showScrollToTop = true
 
