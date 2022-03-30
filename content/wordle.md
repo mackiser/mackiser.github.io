@@ -3,12 +3,37 @@ title: "Wordle Tracker"
 description: Mac's Daily Wordle Updates
 date: 2022-02-18T08:00:00-07:00
 draft: false
-layout: simple
+layout: post
+showTableOfContents: true
 ---
 
-**Mac's Daily [Wordle](https://www.powerlanguage.co.uk/wordle/) Updates**
+{{< alert >}}
+Mac's Daily [Wordle](https://www.powerlanguage.co.uk/wordle/) Updates
+{{</ alert >}}
 
-#### February 18th, 2022 - Wordle 244
+## March
+
+**March 30th, 2022 - Wordle 284**
+
+🟩🟨⬛⬛🟩 \
+⬛⬛⬛⬛🟨 \
+🟩🟩🟩⬛🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Stove**
+
+**March 29th, 2022 - Wordle 283**
+
+🟩⬛🟩⬛⬛ \
+⬛⬛⬛⬛⬛ \
+🟩🟨🟩⬛⬛ \
+🟩⬛🟩🟩🟩 \
+🟩⬛🟩🟩🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Shall**
+
+## February
+
+**February 18th, 2022 - Wordle 244**
 
 ⬛🟩⬛⬛🟩 \
 ⬛⬛⬛⬛⬛ \
@@ -17,7 +42,7 @@ layout: simple
 🟩🟩🟩🟩🟩 \
 Answer: **Dodge**
 
-#### February 17th, 2022 - Wordle 243
+**February 17th, 2022 - Wordle 243**
 
 🟩⬛🟩⬛🟩 \
 🟩⬛🟩⬛🟩 \
@@ -27,14 +52,14 @@ Answer: **Dodge**
 🟩🟩🟩🟩🟩 \
 Answer: **Shake**
 
-#### February 16th, 2022 - Wordle 242
+**February 16th, 2022 - Wordle 242**
 
 ⬛⬛🟨⬛⬛ \
 🟩🟨⬛⬛⬛ \
 🟩🟩🟩🟩🟩 \
 Answer: **Caulk**
 
-#### February 15th, 2022 - Wordle 241
+**February 15th, 2022 - Wordle 241**
 
 ⬛🟨🟨🟨⬛ \
 🟩⬛🟩🟨⬛ \
@@ -44,7 +69,7 @@ Answer: **Caulk**
 🟩🟩🟩🟩🟩 \
 Answer: **Aroma**
 
-#### February 14th, 2022 - Wordle 240
+**February 14th, 2022 - Wordle 240**
 
 ⬛⬛⬛⬛⬛ \
 ⬛🟨🟨⬛🟨 \
@@ -53,7 +78,7 @@ Answer: **Aroma**
 🟩🟩🟩🟩🟩 \
 Answer: **Cynic**
 
-#### February 13th, 2022 - Wordle 239
+**February 13th, 2022 - Wordle 239**
 
 ⬛🟩⬛🟨⬛ \
 ⬛🟩🟨⬛⬛ \
@@ -61,7 +86,7 @@ Answer: **Cynic**
 🟩🟩🟩🟩🟩 \
 Answer: **Robin**
 
-#### February 12th, 2022 - Wordle 238
+**February 12th, 2022 - Wordle 238**
 
 ⬛🟨🟨⬛🟨 \
 🟨🟨🟨⬛⬛ \
@@ -70,7 +95,7 @@ Answer: **Robin**
 🟩🟩🟩🟩🟩 \
 Answer: **Ultra**
 
-#### February 11th, 2022 - Wordle 237
+**February 11th, 2022 - Wordle 237**
 
 🟨🟨⬛⬛🟨 \
 ⬛🟩⬛🟩🟩 \
@@ -78,13 +103,13 @@ Answer: **Ultra**
 🟩🟩🟩🟩🟩 \
 Answer: **Ulcer**
 
-#### February 10th, 2022 - Wordle 236
+**February 10th, 2022 - Wordle 236**
 
 🟨⬛⬛🟩🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Pause**
 
-#### February 9th, 2022 - Wordle 235
+**February 9th, 2022 - Wordle 235**
 
 ⬛🟨⬛⬛⬛ \
 ⬛🟨🟨⬛🟨 \
@@ -92,7 +117,7 @@ Answer: **Pause**
 🟩🟩🟩🟩🟩 \
 Answer: **Humor**
 
-#### February 8th, 2022 - Wordle 234
+**February 8th, 2022 - Wordle 234**
 
 ⬛⬛⬛⬛⬛ \
 🟨🟨⬛⬛🟩 \
@@ -100,7 +125,7 @@ Answer: **Humor**
 🟩🟩🟩🟩🟩 \
 Answer: **Frame**
 
-#### February 7th, 2022 - Wordle 233
+**February 7th, 2022 - Wordle 233**
 
 ⬛🟨⬛⬛🟨 \
 🟨🟨⬛⬛⬛ \
@@ -109,7 +134,7 @@ Answer: **Frame**
 🟩🟩🟩🟩🟩 \
 Answer: **Elder**
 
-#### February 6th, 2022 - Wordle 232
+**February 6th, 2022 - Wordle 232**
 
 ⬛🟨⬛🟨⬛ \
 🟩⬛🟨🟨⬛ \
@@ -118,7 +143,7 @@ Answer: **Elder**
 🟩🟩🟩🟩🟩 \
 Answer: **Skill**
 
-#### February 5th, 2022 - Wordle 231
+**February 5th, 2022 - Wordle 231**
 
 ⬛🟨🟨⬛⬛ \
 ⬛🟨⬛⬛🟨 \
@@ -127,7 +152,7 @@ Answer: **Skill**
 🟩🟩🟩🟩🟩 \
 Answer: **Aloft**
 
-#### February 4th, 2022 - Wordle 230
+**February 4th, 2022 - Wordle 230**
 
 ⬛⬛🟨⬛🟨 \
 🟨⬛⬛🟨⬛ \
@@ -135,7 +160,7 @@ Answer: **Aloft**
 🟩🟩🟩🟩🟩 \
 Answer: **Pleat**
 
-#### February 3rd, 2022 - Wordle 229
+**February 3rd, 2022 - Wordle 229**
 
 🟩⬛🟩🟩⬛ \
 🟩⬛🟩🟩⬛ \
@@ -144,7 +169,7 @@ Answer: **Pleat**
 🟩🟩🟩🟩🟩 \
 Answer: **Shard**
 
-#### February 2nd, 2022 - Wordle 228
+**February 2nd, 2022 - Wordle 228**
 
 🟨🟩⬛⬛⬛ \
 ⬛🟩⬛🟩⬛ \
@@ -152,28 +177,30 @@ Answer: **Shard**
 🟩🟩🟩🟩🟩 \
 Answer: **Moist**
 
-#### February 1st, 2022 - Wordle 227
+**February 1st, 2022 - Wordle 227**
 
 ⬛⬛🟨🟨⬛ \
 🟨🟨🟩⬛⬛ \
 🟩🟩🟩🟩🟩 \
 Answer: **Those**
 
-#### January 31st, 2022 - Wordle 226
+## January
+
+**January 31st, 2022 - Wordle 226**
 
 ⬛🟨⬛⬛🟩 \
 ⬛⬛🟨🟨🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Light**
 
-#### January 30th, 2022 - Wordle 225
+**January 30th, 2022 - Wordle 225**
 
 ⬛🟩⬛⬛⬛ \
 ⬛🟩⬛⬛⬛ \
 🟩🟩🟩🟩🟩 \
 Answer: **Wrung**
 
-#### January 28th, 2022 - Wordle 223
+**January 28th, 2022 - Wordle 223**
 
 ⬛⬛⬛🟨🟨 \
 ⬛🟨⬛⬛🟨 \
@@ -182,7 +209,7 @@ Answer: **Wrung**
 🟩🟩🟩🟩🟩 \
 Answer: **Perky**
 
-#### January 27th, 2022 - Wordle 222
+**January 27th, 2022 - Wordle 222**
 
 ⬛⬛⬛🟨⬛ \
 ⬛🟨🟨🟨⬛ \
@@ -191,14 +218,14 @@ Answer: **Perky**
 🟩🟩🟩🟩🟩 \
 Answer: **Mount**
 
-#### January 26th, 2022 - Wordle 221
+**January 26th, 2022 - Wordle 221**
 
 ⬛⬛🟩⬛⬛ \
 ⬛⬛🟩⬛🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Whack**
 
-#### January 25th, 2022 - Wordle 220
+**January 25th, 2022 - Wordle 220**
 
 ⬛🟨🟨⬛⬛ \
 🟩⬛🟨🟩⬛ \
@@ -207,7 +234,7 @@ Answer: **Whack**
 🟩🟩🟩🟩🟩 \
 Answer: **Sugar**
 
-#### January 24th, 2022 - Wordle 219
+**January 24th, 2022 - Wordle 219**
 
 ⬛⬛⬛⬛⬛ \
 ⬛⬛🟩⬛⬛ \
@@ -215,7 +242,7 @@ Answer: **Sugar**
 🟩🟩🟩🟩🟩 \
 Answer: **Knoll**
 
-#### January 23rd, 2022 - Wordle 218
+**January 23rd, 2022 - Wordle 218**
 
 ⬛⬛⬛🟨⬛ \
 🟨🟨⬛⬛🟨 \
@@ -223,7 +250,7 @@ Answer: **Knoll**
 🟩🟩🟩🟩🟩 \
 Answer: **Crimp**
 
-#### January 22nd, 2022 - Wordle 217
+**January 22nd, 2022 - Wordle 217**
 
 ⬛⬛⬛⬛🟩 \
 ⬛⬛⬛⬛🟩 \
@@ -231,7 +258,7 @@ Answer: **Crimp**
 🟩🟩🟩🟩🟩 \
 Answer: **Wince**
 
-#### January 21st, 2022 - Wordle 216
+**January 21st, 2022 - Wordle 216**
 
 🟨⬛⬛⬛⬛ \
 ⬛⬛⬛🟨⬛ \
@@ -240,7 +267,7 @@ Answer: **Wince**
 🟩🟩🟩🟩🟩 \
 Answer: **Prick**
 
-#### January 20th, 2022 - Wordle 215
+**January 20th, 2022 - Wordle 215**
 
 ⬛⬛⬛⬛⬛ \
 ⬛⬛🟨⬛⬛ \
@@ -249,7 +276,7 @@ Answer: **Prick**
 🟩🟩🟩🟩🟩 \
 Answer: **Robot**
 
-#### January 19th, 2022 - Wordle 214
+**January 19th, 2022 - Wordle 214**
 
 ⬛⬛⬛🟨⬛ \
 ⬛⬛🟨🟨⬛ \
@@ -258,27 +285,17 @@ Answer: **Robot**
 🟩🟩🟩🟩🟩 \
 Answer: **Point**
 
-#### January 18th, 2022 - Wordle 213
+**January 18th, 2022 - Wordle 213**
 
 ⬛⬛⬛⬛⬛ \
 🟩🟨🟨⬛⬛ \
 🟩🟩🟩🟩🟩 \
 Answer: **Proxy**
 
-#### January 17th, 2022 - Wordle 212
+**January 17th, 2022 - Wordle 212**
 
 ⬛⬛⬛🟨🟩 \
 🟩⬛⬛🟩🟩 \
 🟩⬛🟩🟩🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Shire**
-
-#### March 29th, 2022 - Wordle 283
-
-🟩⬛🟩⬛⬛ \
-⬛⬛⬛⬛⬛ \
-🟩🟨🟩⬛⬛ \
-🟩⬛🟩🟩🟩 \
-🟩⬛🟩🟩🟩 \
-🟩🟩🟩🟩🟩 \
-Answer: **Shall**

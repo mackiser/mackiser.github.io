@@ -36,7 +36,7 @@ showScrollToTop = true
   showReadingTime = true
   showTableOfContents = true
   showTaxonomies = false
-  showWordCount = true
+  showWordCount = false
   showScrollToTop = true
   # sharingLinks = ["github", "twitter", "snapchat", "email", "steam"]
 
