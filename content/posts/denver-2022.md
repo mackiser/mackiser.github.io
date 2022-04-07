@@ -11,7 +11,8 @@ draft: false
 | Minolta SRT-101 | Rokkor 58mm | Portra 160 |
 
 {{< figure
-    src="/img/1.jpg"
+    src="https://i.imgur.com/ykWZxUc.jpg"
+    href="https://i.imgur.com/ykWZxUc.jpg"
     alt="Bierstadt"
     caption="📸 by Emily 📍 Bierstadt"
     >}}
