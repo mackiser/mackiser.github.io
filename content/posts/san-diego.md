@@ -6,9 +6,9 @@ layout: simple
 tags: ["film"]
 ---
 
-| Camera          | Lens        | Film                              |
-| --------------- | ----------- | --------------------------------- |
-| Minolta SRT-101 | Rokkor 58mm | Kodak Gold, Portra 160, Ektar 100 |
+| Camera          | Lens        | Film                   |
+| --------------- | ----------- | ---------------------- |
+| Minolta SRT-101 | Rokkor 58mm | Kodak Gold, Portra 160 |
 
 {{< figure
     src="https://i.imgur.com/Oa3xXzs.jpg"
