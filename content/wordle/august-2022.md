@@ -27,3 +27,10 @@ Answer: **Coyly**
 🟨⬛⬛🟩🟨 \
 🟩🟩🟩🟩🟩 \
 Answer: **Youth**
+
+#### August 4th, Wordle 411
+
+⬛⬛⬛🟨🟩 \
+⬛⬛⬛⬛🟨 \
+🟩🟩🟩🟩🟩 \
+Answer: **Rhyme**
