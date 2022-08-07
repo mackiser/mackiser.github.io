@@ -44,3 +44,9 @@ Answer: **Rhyme**
 🟩🟩⬛⬛🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Buggy**
+
+#### August 7th, Wordle 414
+
+🟩⬛🟨🟨🟨 \
+🟩🟩🟩🟩🟩 \
+Answer: **Smear**
