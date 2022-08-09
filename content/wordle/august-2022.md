@@ -58,3 +58,13 @@ Answer: **Smear**
 🟩🟩🟨🟩⬛ \
 🟩🟩🟩🟩🟩 \
 Answer: **Unfit**
+
+#### August 9th, Wordle 416
+
+⬛⬛🟨⬛⬛ \
+⬛⬛⬛🟩🟩 \
+⬛🟩🟩🟩🟩 \
+⬛🟩🟩🟩🟩 \
+⬛🟩🟩🟩🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Patty**
