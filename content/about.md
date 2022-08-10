@@ -20,7 +20,6 @@ I am currently being paid as a IT Support Technician for my local hospital in Ma
 
 Outside of technology some of my other hobbies are skiing, reading and [watching a lot of movies](https://letterboxd.com/mackiser/).
 
-## What I'm Studying
+## What I'm Studying Currently
 
-- CompTIA A+ Certification
 - Python
