@@ -116,7 +116,7 @@ create_random_pass(10)
 
 If done correctly the result should look something like this:
 
-```
+```txt
 Welcome to Sample Company enrollment!
 
 First Name: Lamar
