@@ -23,3 +23,11 @@ Answer: **Fungi**
 ⬛🟩🟩🟩🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Taunt**
+
+#### September 7th, Wordle 445
+
+⬛⬛⬛🟩🟨 \
+⬛⬛⬛⬛🟩 \
+⬛🟩⬛🟩🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Leery**
