@@ -86,3 +86,10 @@ Answer: **Glory**
 ⬛🟩🟩🟩🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Brisk**
+
+#### September 27th, Wordle 465
+
+🟩🟩⬛⬛⬛ \
+⬛⬛⬛⬛🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Soggy**
