@@ -109,3 +109,9 @@ Answer: **Usurp**
 🟩🟩🟩🟩⬛ \
 🟩🟩🟩🟩🟩 \
 Answer: **Scald**
+
+#### September 30th, Wordle 468
+
+🟩🟨⬛🟩⬛ \ 
+🟩🟩🟩🟩🟩 \
+Answer: **Scorn** 👀
