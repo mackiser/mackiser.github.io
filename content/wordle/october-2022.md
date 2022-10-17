@@ -99,3 +99,10 @@ Answer: **Equal**
 ⬛🟨🟩🟩🟨 \
 🟩🟩🟩🟩🟩 \
 Answer: **Floor**
+
+#### October 16th, Wordle 484
+
+🟩⬛🟩⬛🟩 \
+🟩🟩🟩⬛🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Spade**
