@@ -87,3 +87,7 @@ ExitApp
 
 **Script:**
 [wish_wall_menu.ahk](https://gist.githubusercontent.com/mackiser/eef24400c71152dacce1633f19f1ee54/raw/04d07982b5e29630f703445364d67f37fdc4f3e2/wish_wall_menu.ahk)
+
+## Install AutoHotKey
+
+[Download AutoHotKey](https://www.autohotkey.com/download/)
