@@ -160,3 +160,12 @@ Answer: **Foggy**
 ⬛🟩🟩🟩🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Flout**
+
+#### October 27th, Wordle 495
+
+⬛⬛🟨🟩⬛ \
+⬛⬛⬛⬛🟩 \
+⬛🟩🟩🟩🟩 \
+⬛🟩🟩🟩🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Carry**
