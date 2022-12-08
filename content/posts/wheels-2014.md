@@ -4,6 +4,7 @@ description: "Mac's Movie Club film selection for November '22"
 date: 2022-12-08T10:00:00-06:00
 tags: ["movie club"]
 showHeadingAnchors: false
+showTableOfContents: false
 draft: false
 ---
 
