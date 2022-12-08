@@ -3,14 +3,11 @@ title: "Wheels (2014)"
 description: "Mac's Movie Club film selection for November '22"
 date: 2022-12-08T10:00:00-06:00
 tags: ["movie club"]
-showHeadingAnchors: false
 showTableOfContents: false
 draft: false
 ---
 
-<img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7FQkRsZaF5LYRaRlpiGEbhwOgJ4.jpg" alt="Wheels (2014)" width="200"/>
-
-# [Wheels (2014)](https://boxd.it/98hQ)
+<img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7FQkRsZaF5LYRaRlpiGEbhwOgJ4.jpg" alt="Wheels (2014)" width="50%"/>
 
 #### Directed by:
 
@@ -19,6 +16,10 @@ Tim Gagliardo, Donavon Warren
 #### Synopsis:
 
 Two suicidal paraplegic junkies hustle their way through the city streets trying to find a reason to live.
+
+{{< button href="https://boxd.it/98hQ" target="_blank" >}}
+View on Letterboxd
+{{< /button >}}
 
 ## Notes
 
@@ -32,7 +33,7 @@ Two suicidal paraplegic junkies hustle their way through the city streets trying
 
 ## Participants
 
-- Austin (Host)
+- {{< icon "check" >}} Austin
 - Carson
 - Reilly
 - Ben
