@@ -1,5 +1,6 @@
 ---
 title: "Film from San Diego and Hawaii"
+summary: "35mm Film Photos taken in San Diego, California"
 date: 2022-06-26T16:46:00-04:00
 draft: false
 layout: simple

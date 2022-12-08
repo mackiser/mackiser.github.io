@@ -22,4 +22,4 @@ Outside of technology some of my other hobbies are skiing, reading and [watching
 
 ## What I'm Studying Currently
 
-- Python
+- Network+

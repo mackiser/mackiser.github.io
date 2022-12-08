@@ -1,6 +1,6 @@
 ---
 title: "Generating login information with Python"
-description: "A Python script I made to practice defining functions and using the built-in random module"
+summary: "A Python script I made to practice defining functions and using the built-in random module"
 date: 2022-08-12T14:17:37-07:00
 draft: false
 tags: ["python"]

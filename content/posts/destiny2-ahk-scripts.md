@@ -1,6 +1,6 @@
 ---
 title: "Useful AutoHotKey Scripts for Destiny 2"
-description: "A list of scripts I use frequently for Destiny 2 PVE"
+summary: "A list of scripts I use frequently for Destiny 2 PVE"
 date: 2022-10-18T07:00:00-06:00
 tags: ["destiny"]
 draft: false

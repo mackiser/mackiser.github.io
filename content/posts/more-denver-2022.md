@@ -1,5 +1,6 @@
 ---
 title: "Denver 2: Electric Boogaloo"
+summary: "35mm Film Photos taken in Denver, Colorado"
 date: 2022-04-01T23:19:24-06:00
 tags: ["film"]
 layout: simple

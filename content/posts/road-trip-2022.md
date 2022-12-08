@@ -1,5 +1,6 @@
 ---
 title: "Road Trip from Denver to San Diego"
+summary: "35mm Film Photos taken on our road trip"
 date: 2022-04-22T13:57:04-04:00
 draft: false
 layout: simple
