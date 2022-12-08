@@ -3,10 +3,11 @@ title: "Wheels (2014)"
 description: "Mac's Movie Club film selection for November '22"
 date: 2022-12-08T10:00:00-06:00
 tags: ["movie club"]
+showHeadingAnchors: false
 draft: false
 ---
 
-![Wheels (2014)](https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7FQkRsZaF5LYRaRlpiGEbhwOgJ4.jpg "Wheels (2014)")
+<img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7FQkRsZaF5LYRaRlpiGEbhwOgJ4.jpg" alt="Wheels (2014)" width="200"/>
 
 # [Wheels (2014)](https://boxd.it/98hQ)
 
@@ -17,8 +18,6 @@ Tim Gagliardo, Donavon Warren
 #### Synopsis:
 
 Two suicidal paraplegic junkies hustle their way through the city streets trying to find a reason to live.
-
----
 
 ## Notes
 
@@ -38,7 +37,7 @@ Two suicidal paraplegic junkies hustle their way through the city streets trying
 - Ben
 - Jonas
 
-## Next Months Movie
+## December '22 Film
 
 [Pulp Fiction (1994)](https://boxd.it/29Pq)
 
