@@ -4,10 +4,11 @@ summary: "Mac's Movie Club film selection for November '22"
 date: 2022-12-08T10:00:00-06:00
 tags: ["movie club"]
 showTableOfContents: false
+layout: simple
 draft: false
 ---
 
-<img src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7FQkRsZaF5LYRaRlpiGEbhwOgJ4.jpg" alt="Wheels (2014)" width="50%"/>
+<img src="https://www.themoviedb.org/t/p/original/ofB456QjQXwZ1pd0LN4sQeBLzUB.jpg" alt="Wheels (2014)" width="200%"/>
 
 #### Directed by:
 
@@ -41,6 +42,8 @@ View on Letterboxd
 
 ## December '22 Film
 
-[Pulp Fiction (1994)](https://boxd.it/29Pq)
+{{< button href="https://boxd.it/29Pq" target="_blank" >}}
+Pulp Fiction (1994)
+{{< /button >}}
 
 Host: Ben
