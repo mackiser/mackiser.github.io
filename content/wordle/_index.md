@@ -9,5 +9,5 @@ cascade:
 ---
 
 {{< lead >}}
-Mac's Daily [Wordle](https://www.powerlanguage.co.uk/wordle/) Updates
+Mac's Daily [Wordle](https://www.nytimes.com/games/wordle/index.html) Updates
 {{</ lead >}}
