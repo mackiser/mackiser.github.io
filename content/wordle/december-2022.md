@@ -19,3 +19,12 @@ Answer: **Spoke**
 🟨🟩🟨🟩🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Rival**
+
+#### December 16th - Wordle 545
+
+⬛🟨⬛🟨🟩 \
+⬛⬛⬛⬛⬛ \
+⬛🟩🟩🟨🟩 \
+🟩🟩🟩⬛🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Probe**
