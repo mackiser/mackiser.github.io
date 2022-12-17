@@ -11,7 +11,7 @@ draft: false
 🟩🟩🟩🟩🟩 \
 Answer: **Spoke**
 
-#### December 15th - Wordle 544
+#### December 14th - Wordle 544
 
 ⬛⬛🟨🟨⬛ \
 ⬛⬛🟨⬛⬛ \
@@ -19,3 +19,10 @@ Answer: **Spoke**
 🟨🟩🟨🟩🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Rival**
+
+#### December 16th - Wordle 546
+
+⬛🟨⬛🟩⬛ \
+⬛⬛⬛⬛⬛ \
+🟩🟩🟩🟩🟩 \
+Answer: **Chord**

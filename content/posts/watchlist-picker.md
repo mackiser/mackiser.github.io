@@ -54,7 +54,6 @@ print(title)
 
 ### Output
 ```r
-Mac@Mac-Desktop MINGW64 /e/Github/pythonWithMosh/content (main)
 $ python3 watchlistPicker.py
 Citizen Kane
 ```
