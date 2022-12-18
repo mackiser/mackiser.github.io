@@ -34,7 +34,7 @@ View on Letterboxd
 
 ## Participants
 
-- {{< icon "check" >}} Austin
+- __{{< icon "check" >}} Austin__
 - Carson
 - Reilly
 - Ben
