@@ -8,7 +8,7 @@ layout: simple
 draft: false
 ---
 
-<img src="https://www.themoviedb.org/t/p/original/ofB456QjQXwZ1pd0LN4sQeBLzUB.jpg" alt="Wheels (2014)" width="200%"/>
+<img class="rounded shadow-xl" src="featured.jpg" alt="Wheels (2014)" width="200%"/>
 
 #### Directed by:
 
