@@ -1,16 +1,16 @@
 /* Congo scheme */
 :root {
-  --color-neutral: 254, 253, 252;
+  --color-neutral: 255, 255, 255;
   /* Gray */
-  --color-neutral-50: 164, 174, 190;
-  --color-neutral-100: 152, 163, 181;
-  --color-neutral-200: 128, 142, 164;
-  --color-neutral-300: 105, 121, 147;
-  --color-neutral-400: 88, 101, 123;
-  --color-neutral-500: 71, 82, 99;
-  --color-neutral-600: 54, 62, 76;
-  --color-neutral-700: 37, 43, 52;
-  --color-neutral-800: 20, 23, 28;
+  --color-neutral-50: 174, 184, 198;
+  --color-neutral-100: 162, 174, 190;
+  --color-neutral-200: 138, 153, 173;
+  --color-neutral-300: 114, 132, 156;
+  --color-neutral-400: 94, 111, 135;
+  --color-neutral-500: 78, 92, 111;
+  --color-neutral-600: 61, 72, 87;
+  --color-neutral-700: 44, 52, 63;
+  --color-neutral-800: 21, 25, 30;
   --color-neutral-900: 0, 0, 0;
   /* Green */
   --color-secondary-50: 255, 255, 255;
