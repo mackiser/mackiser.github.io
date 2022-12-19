@@ -7,7 +7,7 @@
 
 colorScheme = "blackBlue"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 showAppearanceSwitcher = true
 
 enableSearch = true

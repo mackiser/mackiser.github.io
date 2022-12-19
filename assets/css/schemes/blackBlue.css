@@ -1,11 +1,11 @@
 /* Congo scheme */
 :root {
-    --color-neutral: 244, 253, 255;
+    --color-neutral: 247, 247, 247;
     /* Gray */
     --color-neutral-50: 205, 208, 213;
     --color-neutral-100: 194, 197, 204;
-    --color-neutral-200: 172, 176, 186;
-    --color-neutral-300: 150, 155, 167;
+    --color-neutral-200: 194, 197, 204;
+    --color-neutral-300: 194, 197, 204;
     --color-neutral-400: 127, 134, 148;
     --color-neutral-500: 107, 114, 128;
     --color-neutral-600: 81, 87, 97;
@@ -14,15 +14,15 @@
     --color-neutral-900: 5, 5, 6;
     /* Blue */
     --color-primary-50: 255, 255, 255;
-    --color-primary-100: 237, 245, 253;
-    --color-primary-200: 201, 226, 248;
-    --color-primary-300: 165, 207, 243;
-    --color-primary-400: 129, 188, 238;
-    --color-primary-500: 93, 169, 233;
-    --color-primary-600: 44, 143, 226;
-    --color-primary-700: 26, 114, 188;
-    --color-primary-800: 19, 84, 139;
-    --color-primary-900: 12, 54, 89;
+    --color-primary-100: 255, 255, 255;
+    --color-primary-200: 254, 254, 255;
+    --color-primary-300: 215, 230, 253;
+    --color-primary-400: 176, 205, 251;
+    --color-primary-500: 137, 180, 250;
+    --color-primary-600: 98, 155, 248;
+    --color-primary-700: 59, 130, 246;
+    --color-primary-800: 11, 97, 238;
+    --color-primary-900: 8, 75, 184;
     /* Pink */
     --color-secondary-50: 255, 255, 255;
     --color-secondary-100: 254, 245, 248;

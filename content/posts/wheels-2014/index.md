@@ -40,6 +40,45 @@ View on Letterboxd
 - Ben
 - Jonas
 
+## Rating
+
+{{< chart >}}
+type: 'bar',
+options: {
+    scales: {
+        y: {
+            beginAtZero: true,
+            max: 5,
+            ticks: {
+                stepSize: 1
+            }
+        }
+    },
+    plugins: {
+            title: {
+                display: true,
+                text: 'Wheels (2014)'
+            }
+        }
+},
+data: {
+  labels: ['Austin', 'Carson', 'Reilly', 'Ben', 'Jonas', 'Mac'],
+  datasets: [{
+    label: 'Movie Club Letterboxd Reviews',
+    data: [2.5, 2, 2, 3, 3, 2],
+    backgroundColor: [
+      '#3B82F6',
+      '#3B82F6',
+      '#3B82F6',
+      '#3B82F6',
+      '#3B82F6',
+      '#3B82F6',
+    ]
+  }]
+}
+{{< /chart >}}
+
+
 ## December '22 Film
 
 {{< button href="https://boxd.it/29Pq" target="_blank" >}}
