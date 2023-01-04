@@ -27,3 +27,10 @@ Answer: **Skirt**
 🟨🟩🟨⬛🟨 \
 🟩🟩🟩🟩🟩 \
 Answer: **Antic**
+
+#### January 4th, Wordle 564
+
+⬛⬛🟨🟨🟨 \
+⬛⬛⬛⬛🟨 \
+🟩🟩🟩🟩🟩 \
+Answer: **Layer**

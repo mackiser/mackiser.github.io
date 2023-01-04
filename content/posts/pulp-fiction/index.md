@@ -26,13 +26,13 @@ View on Letterboxd
 
 - Is this the best opening scene of all time? One of those rare times when you are thrown into the world with characters you don’t know but somehow you are captivated right away. I could’ve sat there and listening to Pumpkin and Honey Bunny talk for hours
 - Why can’t Jack Rabbit Slims be a real place?
-- The Chris Walken cameo is so random but so great
+- The Chris Walken cameo is so random, but so great
 - What is Jimmy working with? Regular brewer? French press? Pour over? Moka pot?
 - I love the ambiguity of the brief case. Not just in this movie, but in all movies. It allows it to be more personal for each audience member
 
 ## Participants
 
-- **{{< icon "check" >}} Ben**
+- **Ben [Host]**
 - Carson
 - Reilly
 - Austin
@@ -64,7 +64,15 @@ data: {
 labels: ['Austin', 'Carson', 'Reilly', 'Ben', 'Jonas', 'Jack', 'Mac'],
 datasets: [{
 label: 'Movie Club Letterboxd Reviews',
-data: [0, 0, 0, 0, 0, 0, 0],
+data: [
+0,
+5,
+0,
+0,
+5,
+0,
+5
+],
 backgroundColor: [
 '#3B82F6',
 '#3B82F6',
