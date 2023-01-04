@@ -1,11 +1,11 @@
 ---
 title: "Pulp Fiction (1994)"
 summary: "Mac's Movie Club film selection for December '22"
-date: 2022-12-18
+date: 2023-01-04
 tags: ["movie club"]
 showTableOfContents: false
 layout: simple
-draft: true
+draft: false
 ---
 
 <img class="rounded shadow-xl" src="featured.jpg" alt="Pulp Fiction (1994)" width="100%"/>
@@ -24,6 +24,12 @@ View on Letterboxd
 
 ## Notes
 
+- Is this the best opening scene of all time? One of those rare times when you are thrown into the world with characters you don’t know but somehow you are captivated right away. I could’ve sat there and listening to Pumpkin and Honey Bunny talk for hours
+- Why can’t Jack Rabbit Slims be a real place?
+- The Chris Walken cameo is so random but so great
+- What is Jimmy working with? Regular brewer? French press? Pour over? Moka pot?
+- I love the ambiguity of the brief case. Not just in this movie, but in all movies. It allows it to be more personal for each audience member
+
 ## Participants
 
 - **{{< icon "check" >}} Ben**
@@ -31,8 +37,9 @@ View on Letterboxd
 - Reilly
 - Austin
 - Jonas
+- Jack
 
-## Rating
+## Ratings
 
 {{< chart >}}
 type: 'bar',
@@ -54,10 +61,10 @@ text: 'Pulp Fiction (1994)'
 }
 },
 data: {
-labels: ['Austin', 'Carson', 'Reilly', 'Ben', 'Jonas', 'Mac'],
+labels: ['Austin', 'Carson', 'Reilly', 'Ben', 'Jonas', 'Jack', 'Mac'],
 datasets: [{
 label: 'Movie Club Letterboxd Reviews',
-data: [0, 0, 0, 0, 0, 0],
+data: [0, 0, 0, 0, 0, 0, 0],
 backgroundColor: [
 '#3B82F6',
 '#3B82F6',
@@ -65,6 +72,7 @@ backgroundColor: [
 '#3B82F6',
 '#3B82F6',
 '#3B82F6',
+'#3B82F6'
 ]
 }]
 }
