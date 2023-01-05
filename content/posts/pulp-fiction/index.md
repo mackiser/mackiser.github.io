@@ -65,12 +65,12 @@ labels: ['Austin', 'Carson', 'Reilly', 'Ben', 'Jonas', 'Jack', 'Mac'],
 datasets: [{
 label: 'Movie Club Letterboxd Reviews',
 data: [
-0,
 5,
-0,
-0,
 5,
-0,
+5,
+5,
+5,
+5,
 5
 ],
 backgroundColor: [
@@ -88,8 +88,8 @@ backgroundColor: [
 
 ## December '22 Film
 
-{{< button href="#" target="_blank" >}}
-n/a
+{{< button href="https://boxd.it/27oC" target="_blank" >}}
+L.A. Confidential
 {{< /button >}}
 
-Host: n/a
+Host: [Carson](https://letterboxd.com/thugnificent/)
