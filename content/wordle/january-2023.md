@@ -83,3 +83,12 @@ Answer: **Sedan**
 ⬛🟩🟩🟨🟩 \
 🟩🟩🟩🟩🟩 \
 Answer: **Leapt**
+
+#### January 19th, Wordle 579
+
+⬛⬛⬛⬛⬛ \
+🟨⬛⬛⬛🟩 \
+⬛🟩🟩🟩🟩 \
+⬛🟩🟩🟩🟩 \
+🟩🟩🟩🟩🟩 \
+Answer: **Mucky**
