@@ -86,7 +86,7 @@ backgroundColor: [
 }
 {{< /chart >}}
 
-## December '22 Film
+## January '23 Film
 
 {{< button href="https://boxd.it/27oC" target="_blank" >}}
 L.A. Confidential
