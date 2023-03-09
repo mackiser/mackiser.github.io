@@ -69,7 +69,7 @@ labels: ['Austin', 'Ben', 'Carson', 'Jack', 'Jonas', 'Mac', 'Reilly'],
 datasets: [{
 label: 'Movie Club Letterboxd Reviews',
 data: [
-0,
+2.5,
 2.5,
 4.5,
 0,
