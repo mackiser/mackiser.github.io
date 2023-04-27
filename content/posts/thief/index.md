@@ -21,6 +21,7 @@ View on Letterboxd
 {{< /button >}}
 
 ## Notes
+
 - Sooooooo much style, especially for a directorial debut. Michael Mann is a god damn legend
 - The opening scene with the rain and the synth music gave me HEAVY Blade Runner vibes
 - The diner scene with Frank and Jessie was top tier
@@ -33,14 +34,15 @@ View on Letterboxd
 - I wish Frank got to have a conversation with Leo before he killed him at the end. Like the dinner scene at the end of Sicario
 
 ## Fun Facts
-- Green Mill! Emily and I have been! It is a SICK Jazz bar in Chicago a little north of Wrigleyville
-        - rumor has it that Al Capone’s headquarters was there and there are tunnels under the club that they used to smuggle stuff to other areas of the city
+
+- Green Mill! Emily and I have been! It is a SICK Jazz bar in Chicago a little north of Wrigleyville - rumor has it that Al Capone’s headquarters was there and there are tunnels under the club that they used to smuggle stuff to other areas of the city
 - Mann says he thought of Frank’s character as being “stuck in a maze” and he thought of “nighttime” as a ceiling of the maze
-    - the way he tried to convey that was by keeping the camera angle/perspective low to the ground and never showing the tops of buildings
-    - he also used the reflections of lights on Frank’s car, the pavement, etc
+  - the way he tried to convey that was by keeping the camera angle/perspective low to the ground and never showing the tops of buildings
+  - he also used the reflections of lights on Frank’s car, the pavement, etc
 - The vault door and burn rod at the end were completely real
 
 ## Roles James Caan Turned Down
+
 - Popeye Doyle // The French Connection (played by Gene Hackman)
 - R.P. McMurphy // One Flew Over the Cuckoo's Nest (played by Jack Nicholson)
 - Han Solo
@@ -81,13 +83,13 @@ labels: ['Austin', 'Carson', 'Reilly', 'Ben', 'Jonas', 'Jack', 'Mac'],
 datasets: [{
 label: 'Movie Club Letterboxd Reviews',
 data: [
-0,
-0,
-0,
-0,
-0,
-0,
-0
+4,
+4,
+4.5,
+4,
+4,
+4.5,
+4.5
 ],
 backgroundColor: [
 '#3B82F6',
