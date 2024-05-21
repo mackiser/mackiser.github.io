@@ -1,18 +1,24 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+# Yo! 👋
 
-If you have a question about him or else, just send a letter to him.
+# I'm McKinley, but I go by Mac for short.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+This is my personal website that I use for a whole bunch of stuff. Blogging, posting [film](../tags/film) pictures, and giving updates on any projects I am working on. I do not update the site _super_ often, but I try my best!
 
-**may u needs ✨**
+## More About Me
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+I am currently being paid as a IT Support Technician for my local hospital in Maryland. I work daily with Jira, Active Directory, Azure and Epic Hyperspace. As if fiddling with computers for 40 hours per week is not enough, I am also working towards my bachelors degree in Cyber Security in my free time.
+
+Outside of technology some of my other hobbies are skiing, reading and [watching a lot of movies](https://letterboxd.com/mackiser/).
+
+## What I'm Studying Currently
+
+- CCSP
+- PenTest+
+
